@@ -33,3 +33,6 @@ Completed
 This project is exploratory and educational in nature and does not claim to
 represent real-time environmental measurements.
 
+## Optional Visuals
+![Air Quality Chart](assets/air_quality_chart.png)
+
